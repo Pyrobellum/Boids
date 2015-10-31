@@ -29,7 +29,7 @@ public class BoidDeathAnimation extends AbstractEntity implements Entity {
 
     @Override
     public double getAttractionStrength() {
-        return -10;
+        return 0;
     }
 
     @Override
